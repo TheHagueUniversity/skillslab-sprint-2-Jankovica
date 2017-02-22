@@ -1,0 +1,100 @@
+h1 {
+	color: green;
+    font-size: 50px;
+    margin-left: 100mm;
+}
+h2 {
+	font-size: 35px;
+}
+p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+body {
+	background-color: #FFF8DC ;
+	font-family: Arial;
+	box-sizing: border-box;
+}
+div {
+	box-sizing: border-box
+}
+li {
+	display: inline-block;
+	margin-right: 20px
+}
+input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 5px 20px;
+	box-sizing: border-box
+}
+textarea {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 5px 20px;
+	height: 150px;
+	box-sizing: border-box;
+}
+.nav-block {
+	margin: auto;
+	width: 100%;
+	border-radius: 5px;
+	background-color: #E9967A;
+	padding: 5px 10px;
+	margin-top: 40px
+}
+.nav-block a{
+	color: #483D8B; 
+	text-decoration: none;
+	font-family: "Arial Black", Gadget, sans-serif; 
+}
+.big-container {
+	width: 960px;
+	margin: auto
+}
+.big-photo {
+	width: 100%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border-radius: 5px;
+	overflow: hidden;
+	height: 500px
+
+}
+.big-photo img{
+	min-width: 100%;
+    min-height: 100%
+}
+.text-info {
+	width: 45%;
+	display: inline-block;
+	vertical-align: top
+}
+.text-info h2{
+	margin-top: 0
+
+}
+.form {
+	width: 48%;
+	display: inline-block;
+	margin-left: 6.5%;
+	vertical-align: top
+}
+.contact-info {
+	margin-bottom: 40px
+}
+.artist-info {
+	margin-top: 40px
+}
+.artist-photo {
+	height: 400px;
+	border-radius: 5px;
+	overflow: hidden
+}
+.artist-photo img{
+	min-width: 100%;
+	min-height: 100%
+}
+iframe {
+	margin-bottom: 40px
+}
