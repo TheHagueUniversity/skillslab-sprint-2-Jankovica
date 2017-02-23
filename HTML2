@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> </title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="big-container">
+		<div class="nav-block">
+			<ul>
+				<li><a href="">Home</a></li>
+				<li><a href="">Korean Music</a></li>
+				<li><a href="">Russian Music</a></li>
+				<li><a href="">Metal Music</a></li>
+			</ul>
+		</div>
+
+		<div class="contact-info artist-info">
+			<div class="text-info">
+				<h2>Big Bang</h2>
+				<p>I started to listen to this band when I was around 13 years old. Back at that time I was fan of Korean culture. I was listening Korean music almost all of the time. And even a lot of time have passed and now I am a different human being I still love this band. In my opinion, they are the best! Hope you will enjoy their latest music video, which is provided below!</p>
+			</div>
+
+			<div class="form artist-photo">
+				<img src="http://images.kpopstarz.com/data/images/full/499442/bigbang.jpg?w=600">
+			</div>
+		</div>
+
+	<iframe width="900" height="550" src="https://www.youtube.com/embed/iIPH8LFYFRk" frameborder="0" allowfullscreen></iframe>
+	</div>
+</body>
+</html>
+
