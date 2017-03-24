@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Music</title>
+<meta charset='utf-8'>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class='big-container'>
+			<h1>Russian Music</h1>
+			<a href="home.html">
+			<img src="img/guitar-logo-final.png">
+		</div>
+	</header>
+
+	<div class="big-container">
+		<nav class="nav-block">
+			<ul>
+				<li><a href="home.html">Home</a></li>
+				<li><a href="koreanmusic.html">Korean Music</a></li>
+				<li><a href="russianmusic.html" class='menu-active'>Russian Music</a></li>
+				<li><a href="metalmusic.html">Metal Music</a></li>
+			</ul>
+		</nav>
+
+		<div class="contact-info artist-info">
+			<div class="text-info">
+			<section>
+				<h2>Little Big</h2>
+				<p>This is one of my favourite Russian bands called Little Big. They are not an example of traditional Russian music, but I would like to introduce this band to you.</p>
+				<p>I started to listen to them about a year ago. At first I thought: "Oh, they are really crazy!!", but after I listened to their other songs, I started enjoying it!</p>
+				<p>Even though a music video has a "strange" name and kind of provocative video, it was the first video of this band that I saw. Hope you will like it!</p>
+				<em>Enjoy their song! </em>
+
+				<h3> Members: </h3>
+				<ol type="1">
+					<li>lya Ilich Prusikin</li>
+					<li>Sergey Gokk Makarov</li>
+					<li>Olympia Ivleva</li>
+					<li>Sophia Tayurskaya</li>
+					<li>Anton Boo Lissov</li>
+				</ol>
+			</div>
+			</section>
+
+			<figure id="russian-music">
+           <img src="img/russian-band.jpg">
+		</figure>
+
+
+	<iframe width="960" height="550" src="https://www.youtube.com/embed/QrU1hZxSEXQ" frameborder="0" allowfullscreen></iframe>
+	<footer class="page-footer">
+	 Created by Dana Jankovica 
+	</footer>
+	</div>
+</body>
+</html>
+
