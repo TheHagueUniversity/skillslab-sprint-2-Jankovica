@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Music</title>
+<meta charset='utf-8'>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class='big-container'>
+			<h1>Welcome!</h1>
+			<a href="home.html">
+		<figure class="logo">
+			<aside>
+			<img src="img/guitar-logo-final.png">
+			</aside>
+		</figure>
+		</div>
+	</header>
+
+	<main class="big-container">
+		<nav class="nav-block">
+			<ul>
+				<li><a href="home.html" class='menu-active'>Home</a></li>
+				<li><a href="koreanmusic.html">Korean Music</a></li>
+				<li><a href="russianmusic.html">Russian Music</a></li>
+				<li><a href="metalmusic.html">Metal Music</a></li>
+			</ul>
+		</nav>
+
+		<figure id="introduction">
+           <img src="img/designer-workplace.jpg">
+		</figure>
+
+		<section class="contact-info">
+			<div class="text-info">
+				<article>
+					<h2>Hello World!</h2>
+					<strong>Welcome everyone to my website.</strong>
+					<p>My name is Dana and I am 20 years old. I am studying in The Hague University of Applied Sciences, User Experience Design course. As a part of this study I need to create a website. For a long time I was thinking what I should write about and I decided to tell you about my favourite kinds of music! I concider myself a person, who can listen all types of music. But I will only talk about 3 music genders: Russian music (because I am Russian :) ), Korean music and some Metal music. I will tell something about how I started to listen to this specific band and provide videos.</p>
+					<em>I hope you will enjoy!! And you have any questions, you can contact me by filling in the form on the right!</em>
+				</article>
+			</div>
+
+			<div class="form">
+				<form action="home.html">
+				    Your name<br>
+				    <input type="text" name="cf_name"><br>
+				    Your e-mail<br>
+				    <input type="text" name="cf_email"><br>
+				    Message<br>
+				    <textarea name="cf_message"></textarea><br>
+				    <button>Send</button>
+				</form>
+			</div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9810.016245061859!2d4.3146302522216775!3d52.07055338255166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9d1994a880751d7a!2sThe+Hague+University+of+Applied+Sciences!5e0!3m2!1sru!2snl!4v1489947424294" width="950" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</section>
+	<footer class="page-footer">
+	 Created by Dana Jankovica 
+	</footer>
+	</main>
+</body>
+</html>
